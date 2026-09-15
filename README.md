@@ -8,10 +8,8 @@ Senior software engineer (17+ yrs, TypeScript/React, streaming & TV platforms) b
 
 **Published**
 
-- **[Claude Code × Ollama on Apple Silicon](https://github.com/leonqi-io/claude-code-ollama-guide)** — running Claude Code against a locally hosted model (Ollama / Qwen 3.8 27B): the configuration that works, three root causes found by capturing the requests, and what it isn't good for.
+- **[Claude Code × Ollama on Apple Silicon](https://github.com/leonqi-io/claude-code-ollama-guide)** — running Claude Code against a locally hosted model (Ollama / Qwen 3.8 27B): the configuration that works, three root causes found by capturing the requests, and what it isn't good for。
 
-**Coming here soon**
-
-- **Dev Flow** — the multi-agent development workflow (strategist / implementer roles, ticket templates, hook-enforced review gates) I use on LoomCV.
+- **[Claude Code on a local model — unattended workflow](https://github.com/leonqi-io/claude-code-dev-flow)** — the multi-agent development workflow (strategist / implementer roles, ticket templates, hook-enforced review gates) I use on LoomCV.
 
 [LinkedIn](https://www.linkedin.com/in/leon-qi-63497834)
