@@ -12,4 +12,6 @@ Senior software engineer (17+ yrs, TypeScript/React, streaming & TV platforms) b
 
 - **[Claude Code on a local model — unattended workflow](https://github.com/leonqi-io/claude-code-dev-flow)** — the multi-agent development workflow (strategist / implementer roles, ticket templates, hook-enforced review gates) I use on LoomCV.
 
+- **[Claude Code mods](https://github.com/leonqi-io/claude-code-mods)** — small mods for Claude Code. First one: a status row above the prompt showing context fill, prompt-cache estimate, usage limits and generated tokens, with one-key handoff and guided compact.
+
 [LinkedIn](https://www.linkedin.com/in/leon-qi-63497834)
